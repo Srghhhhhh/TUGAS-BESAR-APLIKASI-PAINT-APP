@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Eraser body -->
+  <rect x="2" y="8" width="14" height="9" rx="2" fill="#FFB3C6" stroke="#C06080" stroke-width="1.2"/>
+  <!-- Eraser stripe -->
+  <rect x="2" y="8" width="6" height="9" rx="2" fill="#FF8FAB" stroke="#C06080" stroke-width="1.2"/>
+  <!-- Erased area (white trail) -->
+  <rect x="5" y="17" width="14" height="3" rx="1" fill="#E8E8E8" stroke="#AAAAAA" stroke-width="0.8"/>
+  <!-- Highlight -->
+  <rect x="3" y="9.5" width="12" height="2" rx="1" fill="white" opacity="0.35"/>
+</svg>

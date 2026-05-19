@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <g transform="translate(3,1) rotate(0)">
+    <!-- Pencil body -->
+    <rect x="6" y="2" width="6" height="14" rx="1" fill="#F9CA24" stroke="#555" stroke-width="1"/>
+    <!-- Eraser end -->
+    <rect x="6" y="2" width="6" height="3" rx="1" fill="#FFB3C6" stroke="#555" stroke-width="1"/>
+    <!-- Metal band -->
+    <rect x="6" y="14" width="6" height="2" fill="#AAAAAA" stroke="#555" stroke-width="0.8"/>
+    <!-- Tip wood -->
+    <polygon points="6,16 12,16 9,22" fill="#C8A060" stroke="#555" stroke-width="1"/>
+    <!-- Tip graphite -->
+    <polygon points="7.5,19.5 10.5,19.5 9,22" fill="#333"/>
+  </g>
+</svg>

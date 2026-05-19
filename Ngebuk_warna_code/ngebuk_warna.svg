@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 580 620" role="img">
+<title>Ngebuk Warna - Kawaii Art</title>
+<desc>Notebook kawaii imut dengan pensil warna-warni dan koala lucu</desc>
+<defs>
+<radialGradient id="bgG" cx="50%" cy="48%" r="68%">
+  <stop offset="0%"   stop-color="#FFDEE9"/>
+  <stop offset="55%"  stop-color="#FFB3C6"/>
+  <stop offset="100%" stop-color="#FF8FAB"/>
+</radialGradient>
+<radialGradient id="blueG" cx="50%" cy="50%" r="50%">
+  <stop offset="0%"   stop-color="#C9EEFF"/>
+  <stop offset="100%" stop-color="#96D9F5"/>
+</radialGradient>
+<linearGradient id="nbG" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%"   stop-color="#FFFDF0"/>
+  <stop offset="100%" stop-color="#FFF5D6"/>
+</linearGradient>
+<linearGradient id="pencilG" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%"   stop-color="#FFE566"/>
+  <stop offset="35%"  stop-color="#5BB8F5"/>
+  <stop offset="65%"  stop-color="#FFE566"/>
+  <stop offset="100%" stop-color="#5BB8F5"/>
+</linearGradient>
+<linearGradient id="tipG" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%"   stop-color="#FF6B6B"/>
+  <stop offset="20%"  stop-color="#FF9F43"/>
+  <stop offset="40%"  stop-color="#F9CA24"/>
+  <stop offset="60%"  stop-color="#6AB04C"/>
+  <stop offset="80%"  stop-color="#4ECDC4"/>
+  <stop offset="100%" stop-color="#A29BFE"/>
+</linearGradient>
+<linearGradient id="eraserG" x1="0%" y1="0%" x2="100%" y2="0%">
+  <stop offset="0%"   stop-color="#FFC8D8"/>
+  <stop offset="100%" stop-color="#FF8FB0"/>
+</linearGradient>
+<linearGradient id="koalaG" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%"   stop-color="#D8D8D8"/>
+  <stop offset="100%" stop-color="#ABABAB"/>
+</linearGradient>
+<radialGradient id="eyeG" cx="40%" cy="35%" r="60%">
+  <stop offset="0%"   stop-color="#7EC8FF"/>
+  <stop offset="50%"  stop-color="#5B9EFF"/>
+  <stop offset="100%" stop-color="#7B5EA7"/>
+</radialGradient>
+<radialGradient id="koalaEyeG" cx="40%" cy="35%" r="60%">
+  <stop offset="0%"   stop-color="#A8E6CF"/>
+  <stop offset="55%"  stop-color="#56C596"/>
+  <stop offset="100%" stop-color="#2E8B6A"/>
+</radialGradient>
+<radialGradient id="paletteG" cx="50%" cy="50%" r="50%">
+  <stop offset="0%"   stop-color="#C8A060"/>
+  <stop offset="100%" stop-color="#A07040"/>
+</radialGradient>
+<filter id="shadow">
+  <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#E07090" flood-opacity="0.25"/>
+</filter>
+</defs>
+<g id="bg">
+
+<!-- BACKGROUND -->
+<rect x="0.0" y="0.0" width="580.0" height="620.0" rx="44.0" fill="url(#bgG)"/>
+<circle cx="80" cy="80" r="90" fill="#FFE0EC" opacity="0.45"/>
+<circle cx="500" cy="100" r="80" fill="#C9EEFF" opacity="0.40"/>
+<circle cx="60" cy="480" r="70" fill="#FFF0B3" opacity="0.40"/>
+<circle cx="510" cy="450" r="90" fill="#D4F5E9" opacity="0.38"/>
+</g>
+<g id="circle">
+
+<!-- LINGKARAN BIRU -->
+<circle cx="285.0" cy="295.0" r="215.0" fill="url(#blueG)"/>
+</g>
+<g id="splatters">
+
+<!-- CIPRATAN CAT -->
+<g opacity="0.90">
+<circle cx="95.0" cy="108.0" r="22.0" fill="#FF85A1"/>
+<circle cx="132.4" cy="108.0" r="6.2" fill="#FF85A1"/>
+<circle cx="106.6" cy="143.6" r="8.8" fill="#FF85A1"/>
+<circle cx="64.7" cy="130.0" r="11.4" fill="#FF85A1"/>
+<circle cx="64.7" cy="86.0" r="6.2" fill="#FF85A1"/>
+<circle cx="106.6" cy="72.4" r="8.8" fill="#FF85A1"/>
+</g>
+<g opacity="0.85">
+<circle cx="78.0" cy="340.0" r="18.0" fill="#4ECDC4"/>
+<circle cx="108.6" cy="340.0" r="5.0" fill="#4ECDC4"/>
+<circle cx="87.5" cy="369.1" r="7.2" fill="#4ECDC4"/>
+<circle cx="53.2" cy="358.0" r="9.4" fill="#4ECDC4"/>
+<circle cx="53.2" cy="322.0" r="5.0" fill="#4ECDC4"/>
+<circle cx="87.5" cy="310.9" r="7.2" fill="#4ECDC4"/>
+</g>
+<g opacity="0.85">
+<circle cx="490.0" cy="115.0" r="20.0" fill="#A29BFE"/>
+<circle cx="524.0" cy="115.0" r="5.6" fill="#A29BFE"/>
+<circle cx="500.5" cy="147.3" r="8.0" fill="#A29BFE"/>
+<circle cx="462.5" cy="135.0" r="10.4" fill="#A29BFE"/>
+<circle cx="462.5" cy="95.0" r="5.6" fill="#A29BFE"/>
+<circle cx="500.5" cy="82.7" r="8.0" fill="#A29BFE"/>
+</g>
+<g opacity="0.80">
+<circle cx="510.0" cy="280.0" r="15.0" fill="#FF6B6B"/>
+<circle cx="535.5" cy="280.0" r="4.2" fill="#FF6B6B"/>
+<circle cx="517.9" cy="304.3" r="6.0" fill="#FF6B6B"/>
+<circle cx="489.4" cy="295.0" r="7.8" fill="#FF6B6B"/>
+<circle cx="489.4" cy="265.0" r="4.2" fill="#FF6B6B"/>
+<circle cx="517.9" cy="255.7" r="6.0" fill="#FF6B6B"/>
+</g>
+<g opacity="0.85">
+<circle cx="340.0" cy="65.0" r="16.0" fill="#F9CA24"/>
+<circle cx="367.2" cy="65.0" r="4.5" fill="#F9CA24"/>
+<circle cx="348.4" cy="90.9" r="6.4" fill="#F9CA24"/>
+<circle cx="318.0" cy="81.0" r="8.3" fill="#F9CA24"/>
+<circle cx="318.0" cy="49.0" r="4.5" fill="#F9CA24"/>
+<circle cx="348.4" cy="39.1" r="6.4" fill="#F9CA24"/>
+</g>
+<circle cx="72" cy="90" r="10" fill="#FF85A1" opacity="0.80"/>
+<circle cx="118" cy="82" r="8" fill="#FF85A1" opacity="0.75"/>
+<circle cx="65" cy="120" r="7" fill="#FF85A1" opacity="0.70"/>
+<circle cx="58" cy="322" r="9" fill="#4ECDC4" opacity="0.75"/>
+<circle cx="100" cy="328" r="7" fill="#4ECDC4" opacity="0.70"/>
+<circle cx="512" cy="98" r="10" fill="#A29BFE" opacity="0.75"/>
+<circle cx="470" cy="96" r="8" fill="#A29BFE" opacity="0.70"/>
+<circle cx="528" cy="265" r="7" fill="#FF6B6B" opacity="0.70"/>
+<circle cx="360" cy="50" r="8" fill="#F9CA24" opacity="0.75"/>
+<circle cx="318" cy="52" r="6" fill="#F9CA24" opacity="0.70"/>
+</g>
+<g id="notebook">
+
+<!-- NOTEBOOK -->
+<ellipse cx="210.0" cy="183.0" rx="18.0" ry="10.0" fill="#FF85A1"/>
+<ellipse cx="210" cy="183" rx="18" ry="10" fill="#FF85A1" opacity="0.8"/>
+<ellipse cx="260.0" cy="175.0" rx="15.0" ry="8.0" fill="#F9CA24"/>
+<ellipse cx="310.0" cy="180.0" rx="16.0" ry="9.0" fill="#4ECDC4"/>
+<path d="M 205 183 Q 200 200 203 215 Q 200 228 205 238" fill="none" stroke="#FF85A1" stroke-width="7.0" stroke-linecap="round"/>
+<path d="M 257 176 Q 252 193 255 207" fill="none" stroke="#F9CA24" stroke-width="6.0" stroke-linecap="round"/>
+<rect x="165.0" y="183.0" width="215.0" height="265.0" rx="18.0" fill="url(#nbG)" stroke="#3B2007" stroke-width="3.5" filter="url(#shadow)"/>
+<rect x="198.0" y="173.0" width="18.0" height="24.0" rx="8.0" fill="#5BB8F5" stroke="#3B2007" stroke-width="2.0"/>
+<rect x="244.0" y="173.0" width="18.0" height="24.0" rx="8.0" fill="#F9CA24" stroke="#3B2007" stroke-width="2.0"/>
+<rect x="290.0" y="173.0" width="18.0" height="24.0" rx="8.0" fill="#FF85A1" stroke="#3B2007" stroke-width="2.0"/>
+<rect x="336.0" y="173.0" width="18.0" height="24.0" rx="8.0" fill="#A29BFE" stroke="#3B2007" stroke-width="2.0"/>
+<line x1="185.0" y1="280.0" x2="362.0" y2="280.0" stroke="#EAE0C8" stroke-width="1.5"/>
+<line x1="185.0" y1="315.0" x2="362.0" y2="315.0" stroke="#EAE0C8" stroke-width="1.5"/>
+<line x1="185.0" y1="350.0" x2="362.0" y2="350.0" stroke="#EAE0C8" stroke-width="1.5"/>
+<line x1="185.0" y1="385.0" x2="362.0" y2="385.0" stroke="#EAE0C8" stroke-width="1.5"/>
+<circle cx="237.0" cy="318.0" r="24.0" fill="#C8E8FF" stroke="#A0C4F0" stroke-width="2.0"/>
+<circle cx="305.0" cy="318.0" r="24.0" fill="#C8E8FF" stroke="#A0C4F0" stroke-width="2.0"/>
+<circle cx="237.0" cy="318.0" r="18.0" fill="url(#eyeG)"/>
+<circle cx="305.0" cy="318.0" r="18.0" fill="url(#eyeG)"/>
+<circle cx="237" cy="318" r="9" fill="#5A3E8A" opacity="0.9"/>
+<circle cx="241" cy="313" r="5" fill="#3A2060" opacity="0.85"/>
+<circle cx="305" cy="318" r="9" fill="#5A3E8A" opacity="0.9"/>
+<circle cx="309" cy="313" r="5" fill="#3A2060" opacity="0.85"/>
+<circle cx="229" cy="309" r="5" fill="white" opacity="0.95"/>
+<circle cx="243" cy="324" r="2.5" fill="white" opacity="0.60"/>
+<circle cx="297" cy="309" r="5" fill="white" opacity="0.95"/>
+<circle cx="311" cy="324" r="2.5" fill="white" opacity="0.60"/>
+<line x1="222.0" y1="297.0" x2="218.0" y2="290.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="290.0" y1="297.0" x2="286.0" y2="290.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="233.0" y1="294.0" x2="231.0" y2="287.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="301.0" y1="294.0" x2="299.0" y2="287.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="244.0" y1="295.0" x2="244.0" y2="288.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="312.0" y1="295.0" x2="312.0" y2="288.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="254.0" y1="299.0" x2="257.0" y2="292.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="322.0" y1="299.0" x2="325.0" y2="292.0" stroke="#7B5EA7" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="215.0" cy="348.0" rx="22.0" ry="15.0" fill="#FFB3C6"/>
+<ellipse cx="327.0" cy="348.0" rx="22.0" ry="15.0" fill="#FFB3C6"/>
+<circle cx="210" cy="346" r="4" fill="#FF85A1" opacity="0.6"/>
+<circle cx="322" cy="346" r="4" fill="#FF85A1" opacity="0.6"/>
+<circle cx="220" cy="352" r="3" fill="#FF85A1" opacity="0.5"/>
+<circle cx="332" cy="352" r="3" fill="#FF85A1" opacity="0.5"/>
+<path d="M 242 365 Q 271 398 300 365" fill="none" stroke="#7B5EA7" stroke-width="5.0" stroke-linecap="round"/>
+<ellipse cx="271.0" cy="385.0" rx="15.0" ry="10.0" fill="#FF9EB5" stroke="#C090C0" stroke-width="1.5"/>
+<line x1="271.0" y1="376.0" x2="271.0" y2="394.0" stroke="#C090C0" stroke-width="1.5"/>
+</g>
+<g id="pencil">
+
+<!-- PENSIL BESAR MIRING -->
+<g transform="translate(388.0,115.0) rotate(-38.0)">
+<rect x="-24.0" y="-165.0" width="48.0" height="35.0" rx="8.0" fill="url(#eraserG)" stroke="#3B2007" stroke-width="2.5"/>
+<circle cx="-8" cy="-149" r="4" fill="#7B5EA7"/>
+<circle cx="8"  cy="-149" r="4" fill="#7B5EA7"/>
+<path d="M -6 -141 Q 0 -135 6 -141" fill="none" stroke="#7B5EA7" stroke-width="2.0" stroke-linecap="round"/>
+<rect x="-24.0" y="-130.0" width="48.0" height="210.0" rx="7.0" fill="url(#pencilG)" stroke="#3B2007" stroke-width="2.5"/>
+<rect x="-24" y="-130" width="48" height="38" fill="#FF6B6B" opacity="0.45"/>
+<rect x="-24" y="-92" width="48" height="38" fill="#F9CA24" opacity="0.45"/>
+<rect x="-24" y="-54" width="48" height="38" fill="#4ECDC4" opacity="0.45"/>
+<rect x="-24" y="-16" width="48" height="38" fill="#A29BFE" opacity="0.45"/>
+<rect x="-24" y="22" width="48" height="38" fill="#FF85A1" opacity="0.45"/>
+<rect x="-24" y="60" width="48" height="20" fill="#6AB04C" opacity="0.45"/>
+<rect x="-24.0" y="78.0" width="48.0" height="22.0" rx="0.0" fill="#C8C8C8" stroke="#999" stroke-width="1.5"/>
+<rect x="-24.0" y="86.0" width="48.0" height="8.0" rx="0.0" fill="#B0B0B0"/>
+<path d="M -24 100 L 24 100 L 0 148" fill="url(#tipG)" stroke="#3B2007" stroke-width="2.0"/>
+<path d="M -6 112 L 6 112 L 0 146" fill="#5A3010"/>
+</g>
+</g>
+<g id="rainbow">
+
+<!-- GARIS PELANGI DARI UJUNG PENSIL -->
+<path d="M 305 395 Q 330 418 360 428 Q 395 435 415 418" fill="none" stroke="url(#tipG)" stroke-width="6.0" stroke-linecap="round" opacity="0.85"/>
+</g>
+<g id="koala">
+
+<!-- KOALA IMUT -->
+<g transform="translate(422.0,362.0) rotate(0.0)">
+<circle cx="-34.0" cy="-36.0" r="24.0" fill="url(#koalaG)" stroke="#999" stroke-width="2.0"/>
+<circle cx="-34.0" cy="-36.0" r="14.0" fill="#D4BEBE"/>
+<circle cx="-34.0" cy="-36.0" r="8.0" fill="#C8A8A8"/>
+<circle cx="34.0" cy="-36.0" r="24.0" fill="url(#koalaG)" stroke="#999" stroke-width="2.0"/>
+<circle cx="34.0" cy="-36.0" r="14.0" fill="#D4BEBE"/>
+<circle cx="34.0" cy="-36.0" r="8.0" fill="#C8A8A8"/>
+<circle cx="0.0" cy="0.0" r="46.0" fill="url(#koalaG)" stroke="#999" stroke-width="2.5"/>
+<ellipse cx="0.0" cy="10.0" rx="16.0" ry="11.0" fill="#555" stroke="#333" stroke-width="1.5"/>
+<ellipse cx="-5.0" cy="7.0" rx="5.0" ry="4.0" fill="#7A7A7A"/>
+<circle cx="-18.0" cy="-10.0" r="11.0" fill="#D0F0E0" stroke="#8ADAC0" stroke-width="1.5"/>
+<circle cx="-18.0" cy="-10.0" r="8.0" fill="url(#koalaEyeG)"/>
+<circle cx="-18" cy="-10" r="4" fill="#1A5C42" opacity="0.9"/>
+<circle cx="-21" cy="-13" r="3" fill="white" opacity="0.9"/>
+<circle cx="-14" cy="-7"  r="1.5" fill="white" opacity="0.6"/>
+<circle cx="18.0" cy="-10.0" r="11.0" fill="#D0F0E0" stroke="#8ADAC0" stroke-width="1.5"/>
+<circle cx="18.0" cy="-10.0" r="8.0" fill="url(#koalaEyeG)"/>
+<circle cx="18" cy="-10" r="4" fill="#1A5C42" opacity="0.9"/>
+<circle cx="15" cy="-13" r="3" fill="white" opacity="0.9"/>
+<circle cx="22" cy="-7"  r="1.5" fill="white" opacity="0.6"/>
+<path d="M -12 22 Q 0 32 12 22" fill="none" stroke="#555" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="-28.0" cy="18.0" rx="13.0" ry="9.0" fill="#FFB3C6"/>
+<ellipse cx="28.0" cy="18.0" rx="13.0" ry="9.0" fill="#FFB3C6"/>
+</g>
+</g>
+<g id="bubble">
+
+<!-- SPEECH BUBBLE HATI -->
+<rect x="390.0" y="255.0" width="78.0" height="60.0" rx="16.0" fill="white" stroke="#FFB3C6" stroke-width="2.5"/>
+<path d="M 408 315 L 418 338 L 428 315" fill="white" stroke="#FFB3C6" stroke-width="2.5"/>
+<path d="M 430 276 C 430 267 419 264 419 274 C 419 264 408 267 408 276 C 408 287 419 296 419 296 C 419 296 430 287 430 276 Z" fill="#FF6B9D"/>
+<circle cx="412" cy="271" r="3" fill="white" opacity="0.7"/>
+</g>
+<g id="palette">
+
+<!-- PALET CAT -->
+<g transform="translate(158.0,415.0) rotate(0.0)">
+<ellipse cx="0.0" cy="0.0" rx="48.0" ry="36.0" fill="url(#paletteG)" stroke="#7A5020" stroke-width="2.5"/>
+<circle cx="16.0" cy="6.0" r="10.0" fill="#A07040"/>
+<circle cx="-28.0" cy="-8.0" r="9.0" fill="#FF6B6B" stroke="#5A3010" stroke-width="1.0"/>
+<circle cx="-12.0" cy="-20.0" r="9.0" fill="#F9CA24" stroke="#5A3010" stroke-width="1.0"/>
+<circle cx="6.0" cy="-24.0" r="9.0" fill="#4ECDC4" stroke="#5A3010" stroke-width="1.0"/>
+<circle cx="22.0" cy="-16.0" r="9.0" fill="#A29BFE" stroke="#5A3010" stroke-width="1.0"/>
+<circle cx="-20.0" cy="14.0" r="9.0" fill="#FF85A1" stroke="#5A3010" stroke-width="1.0"/>
+<circle cx="-2.0" cy="18.0" r="9.0" fill="#5BB8F5" stroke="#5A3010" stroke-width="1.0"/>
+<line x1="-18.0" y1="36.0" x2="12.0" y2="2.0" stroke="#8B5020" stroke-width="5.0" stroke-linecap="round"/>
+<circle cx="-20.0" cy="38.0" r="6.0" fill="#FF85A1"/>
+<line x1="-32.0" y1="28.0" x2="-2.0" y2="-8.0" stroke="#6B3810" stroke-width="4.0" stroke-linecap="round"/>
+<circle cx="-34.0" cy="30.0" r="5.0" fill="#5BB8F5"/>
+</g>
+</g>
+<g id="bucket">
+
+<!-- EMBER CAT -->
+<g transform="translate(415.0,428.0) rotate(0.0)">
+<path d="M -30 -28 L -24 30 Q 0 42 24 30 L 30 -28 Z" fill="#E8E8E8" stroke="#999" stroke-width="2.0"/>
+<path d="M -28 -25 Q 0 -40 28 -25" fill="none" stroke="#999" stroke-width="3.0" stroke-linecap="round"/>
+<rect x="-22.0" y="-18.0" width="44.0" height="22.0" rx="4.0" fill="white" stroke="#CCC" stroke-width="1.0"/>
+<line x1="-16.0" y1="-14.0" x2="-16.0" y2="0.0" stroke="#FF6B6B" stroke-width="3.0"/>
+<line x1="-6.0" y1="-14.0" x2="-6.0" y2="0.0" stroke="#F9CA24" stroke-width="3.0"/>
+<line x1="4.0" y1="-14.0" x2="4.0" y2="0.0" stroke="#4ECDC4" stroke-width="3.0"/>
+<line x1="14.0" y1="-14.0" x2="14.0" y2="0.0" stroke="#A29BFE" stroke-width="3.0"/>
+<path d="M -30 28 Q -42 40 -38 52 Q -25 65 0 60 Q 25 65 38 52 Q 42 40 30 28" fill="#9EE5FA"/>
+<ellipse cx="0.0" cy="35.0" rx="20.0" ry="6.0" fill="white"/>
+</g>
+</g>
+<g id="sparkles">
+
+<!-- SPARKLE BINTANG -->
+<polygon points="360.0,114.0 364.0,126.0 376.0,130.0 364.0,134.0 360.0,146.0 356.0,134.0 344.0,130.0 356.0,126.0" fill="#FFE566" opacity="1.00"/>
+<polygon points="418.0,138.0 420.5,145.5 428.0,148.0 420.5,150.5 418.0,158.0 415.5,150.5 408.0,148.0 415.5,145.5" fill="#FFE566" opacity="1.00"/>
+<polygon points="455.0,162.0 457.0,168.0 463.0,170.0 457.0,172.0 455.0,178.0 453.0,172.0 447.0,170.0 453.0,168.0" fill="#FFE566" opacity="1.00"/>
+<polygon points="128.0,233.0 131.0,242.0 140.0,245.0 131.0,248.0 128.0,257.0 125.0,248.0 116.0,245.0 125.0,242.0" fill="white" opacity="0.90"/>
+<polygon points="492.0,300.0 494.0,306.0 500.0,308.0 494.0,310.0 492.0,316.0 490.0,310.0 484.0,308.0 490.0,306.0" fill="#FFB3C6" opacity="0.90"/>
+</g>
+<g id="title">
+
+<!-- TULISAN NGEBUK WARNA -->
+<text x="292" y="546" text-anchor="middle"
+  font-family="'Comic Sans MS','Chalkboard SE','Arial Rounded MT Bold',cursive"
+  font-size="46" font-weight="900"
+  fill="#D05070" opacity="0.4" letter-spacing="2">Ngebuk Warna</text>
+<text x="290" y="543" text-anchor="middle"
+  font-family="'Comic Sans MS','Chalkboard SE','Arial Rounded MT Bold',cursive"
+  font-size="46" font-weight="900"
+  stroke="white" stroke-width="8" fill="none" letter-spacing="2">Ngebuk Warna</text>
+<text x="290" y="543" text-anchor="middle"
+  font-family="'Comic Sans MS','Chalkboard SE','Arial Rounded MT Bold',cursive"
+  font-size="46" font-weight="900" letter-spacing="2">
+  <tspan fill="#FF6B6B">N</tspan>
+  <tspan fill="#FF8C42">g</tspan>
+  <tspan fill="#F9CA24">e</tspan>
+  <tspan fill="#6AB04C">b</tspan>
+  <tspan fill="#4ECDC4">u</tspan>
+  <tspan fill="#5BB8F5">k</tspan>
+  <tspan fill="#A29BFE"> </tspan>
+  <tspan fill="#FF85A1">W</tspan>
+  <tspan fill="#FF6B6B">a</tspan>
+  <tspan fill="#FF8C42">r</tspan>
+  <tspan fill="#F9CA24">n</tspan>
+  <tspan fill="#6AB04C">a</tspan>
+</text>
+<polygon points="108.0,530.0 112.0,542.0 124.0,546.0 112.0,550.0 108.0,562.0 104.0,550.0 92.0,546.0 104.0,542.0" fill="#F9CA24" opacity="0.95"/>
+<polygon points="472.0,530.0 476.0,542.0 488.0,546.0 476.0,550.0 472.0,562.0 468.0,550.0 456.0,546.0 468.0,542.0" fill="#FF85A1" opacity="0.95"/>
+<circle cx="145.0" cy="546.0" r="5.0" fill="#4ECDC4"/>
+<circle cx="435.0" cy="546.0" r="5.0" fill="#A29BFE"/>
+<circle cx="125.0" cy="558.0" r="3.5" fill="#FF6B6B"/>
+<circle cx="455.0" cy="558.0" r="3.5" fill="#F9CA24"/>
+</g>
+</svg>
