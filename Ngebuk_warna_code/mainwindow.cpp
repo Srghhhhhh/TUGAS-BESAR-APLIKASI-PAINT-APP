@@ -39,7 +39,7 @@ MainWindow::MainWindow()
     createMenus();
     createToolbar();
 
-    setWindowTitle(tr("Ngebuk Warna"));
+    setWindowTitle(tr("Paint App"));
     resize(1100, 720);
 }
 
@@ -338,17 +338,13 @@ void MainWindow::closeEvent(QCloseEvent *event)
 void MainWindow::about()
 {
     QMessageBox::about(this, tr("Tentang Paint App"),
-        tr("<h3>Paint App – Tugas Besar</h3>"
-           "<p><b>Brush Types:</b></p>"
+        tr("<h3>Ngebuk Warna – UAS Algoritma Pemrograman</h3>"
+           "<p><b>:</b></p>"
            "<ul>"
-           "<li>✏ <b>Normal</b> – pensil solid biasa</li>"
-           "<li>💨 <b>Spray</b> – semprotan titik acak</li>"
-           "<li>🖊 <b>Marker</b> – spidol lebar semi-transparan</li>"
-           "<li>✨ <b>Glow</b> – efek cahaya neon berpendar</li>"
-           "<li>🎨 <b>Watercolor</b> – cat air lembut berbauran</li>"
-           "<li>🖋 <b>Kaligrafi</b> – pena miring berkarakter</li>"
-           "<li>🪶 <b>Fur</b> – bulu/rambut halus menyebar</li>"
-           "<li>🪨 <b>Chalk</b> – kapur bertekstur kasar</li>"
+           "<li>✏ <b>Tengku Hafiz Novandi</b> – 251401039</li>"
+           "<li>💨 <b>Yehezkiel Saragih</b> – 251401060</li>"
+           "<li>🖊 <b>Alia Fitri Azkia</b> – 251401027</li>"
+           "<li>✨ <b>Rio Ganda Pahala Sianipar</b> – 251401033</li>"
            "</ul>"
-           "<p><b>Shortcut:</b> tekan tombol Pensil (P) untuk buka panel brush</p>"));
+          ));
 }
