@@ -1,0 +1,47 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main() {
+    ofstream svg("color_wheel.svg");
+
+    svg << R"(<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 24 24"
+     width="240"
+     height="240">
+
+  <!-- Color wheel segments -->
+  <path d="M12 12 L12 3 A9 9 0 0 1 20.8 7.5 Z"
+        fill="#FF6B6B"/>
+
+  <path d="M12 12 L20.8 7.5 A9 9 0 0 1 20.8 16.5 Z"
+        fill="#F9CA24"/>
+
+  <path d="M12 12 L20.8 16.5 A9 9 0 0 1 12 21 Z"
+        fill="#6AB04C"/>
+
+  <path d="M12 12 L12 21 A9 9 0 0 1 3.2 16.5 Z"
+        fill="#4ECDC4"/>
+
+  <path d="M12 12 L3.2 16.5 A9 9 0 0 1 3.2 7.5 Z"
+        fill="#5BB8F5"/>
+
+  <path d="M12 12 L3.2 7.5 A9 9 0 0 1 12 3 Z"
+        fill="#A29BFE"/>
+
+  <!-- White center -->
+  <circle cx="12"
+          cy="12"
+          r="4"
+          fill="white"
+          stroke="#DDDDDD"
+          stroke-width="0.5"/>
+</svg>)";
+
+    svg.close();
+
+    cout << "File SVG berhasil dibuat: color_wheel.svg" << endl;
+    return 0;
+}
