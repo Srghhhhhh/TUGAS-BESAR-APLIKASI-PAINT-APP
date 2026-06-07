@@ -10,4 +10,4 @@ Selain fitur menggambar bebas, aplikasi juga menyediakan beberapa tools seperti 
 - Yehezkiel Saragih (251401060)
 # Link Panduan
 
-Berikut link panduan dan tugas masing masing anggota: [PAINT APP](https://drive.google.com/file/d/1SD2Q_jiCV8qWU4u7jED_k51fnv24K357/view?usp=drive_link)
+Berikut link panduan dan tugas masing masing anggota: [PAINT APP](https://drive.google.com/file/d/1ux1E6bpnKRxrpZ8cWbDmbCX7lcFyXHlR/view?usp=drive_link)
